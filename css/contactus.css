@@ -1,0 +1,25 @@
+.contactus-title{
+    padding: 20px;
+    margin-top: 20px;
+    color:white;
+   }
+   .contactus-body{
+       background-image: url("../assets/img/contactus-bg-img.jpg");
+       background-size: cover;
+   }
+   .contactus-btn{
+       width:90px;
+   }
+   .contactus-msg-box{
+       padding: 40px;
+       background-color: white;
+       border-radius: 5px;
+   }
+    .input-box{  
+       border:none;
+       border-bottom:2px solid black;
+   }
+   .contact-details{
+       padding:10px;
+       color:white;
+   }
