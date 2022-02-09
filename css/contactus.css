@@ -1,19 +1,28 @@
 .contactus-title{
     padding: 20px;
     margin-top: 20px;
-    color:white;
+    /* color:white; */
+    color: black;
    }
    .contactus-body{
-       background-image: url("../assets/img/contactus-bg-img.jpg");
+       background-image: url("https://images.pexels.com/photos/5847340/pexels-photo-5847340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
        background-size: cover;
+       background-attachment: fixed;
+       background-position: center;
+       position: relative;
    }
    .contactus-btn{
        width:90px;
+       align-items: center;
    }
    .contactus-msg-box{
-       padding: 40px;
-       background-color: white;
+       padding: 14px;
+       background-color: rgb(240, 211, 158);
        border-radius: 5px;
+       width: 500px;
+   }
+   .contact_us{
+       font-family: 'Times New Roman', Times, serif
    }
     .input-box{  
        border:none;
@@ -21,5 +30,6 @@
    }
    .contact-details{
        padding:10px;
-       color:white;
+       /* color:white; */
+       color: black;
    }
