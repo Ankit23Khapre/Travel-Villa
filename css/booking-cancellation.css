@@ -1,0 +1,23 @@
+.div-container{
+    width: 400px;
+    box-shadow: 0px 0px 10px black;
+    padding: 20px;
+    border-radius: 7px;
+}
+input{
+    height:30px;
+    margin-bottom: 10px;
+}
+.cancel-button{
+    background-color: rgb(9, 235, 243);
+    margin:20px;
+    margin-left: 90px;
+    width:100px;
+    border-radius: 10px;
+}
+.ok-button{
+    background-color: rgb(9, 235, 243);
+    margin:20px;
+    width:100px;
+    border-radius: 10px;
+}
