@@ -1,6 +1,6 @@
 .card_hover:hover
 {
-   box-shadow: 0px 0px 20px black;
+   box-shadow: 5px 5px 20px black;
    transition: 0.6s;
    border: 1px solid black;
 }
@@ -9,4 +9,13 @@
 }
 .card{
     border: 1px;
+}
+.img-sizing{
+    width: 400px;
+    height: 200px;
+    border: 1px;
+}
+.card_hover{
+    height: 410px;
+    width: 410px;
 }
