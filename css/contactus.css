@@ -4,13 +4,24 @@
     color:white;
    }
    .contactus-body{
-       background-image: url("../assets/img/contactus-bg-img.jpg");
+       background-image: url("../assets/img/contactus-background.png");
        background-size: cover;
    }
    .contactus-btn{
-       width:90px;
+       width:100px;
+       background-color: rgb(126, 22, 22);
+       color: white;
    }
+   .contactus-cancel-btn{
+    width:100px;
+    margin-left: 60px;
+    background-color: rgb(126, 22, 22);
+    color: white;
+   }
+
    .contactus-msg-box{
+       margin-left: 180px;
+       width: 350px;
        padding: 40px;
        background-color: white;
        border-radius: 5px;
@@ -21,5 +32,9 @@
    }
    .contact-details{
        padding:10px;
+       color:white;
+   }
+   .contact-link{
+       margin-left: 50px;
        color:white;
    }
