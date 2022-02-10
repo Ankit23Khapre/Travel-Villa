@@ -21,3 +21,10 @@ input{
     width:100px;
     border-radius: 10px;
 }
+.body_img{
+    /* background-image: url(../assets/img/backgroundimg.jpeg); */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
