@@ -1,28 +1,30 @@
 .contactus-title{
     padding: 20px;
     margin-top: 20px;
-    /* color:white; */
-    color: black;
+    color:white;
    }
    .contactus-body{
-       background-image: url(../assets/img/backgroundimg.jpeg);
+       background-image: url("../assets/img/contactus-background.png");
        background-size: cover;
-       background-attachment: fixed;
-       background-position: center;
-       position: relative;
    }
    .contactus-btn{
-       width:90px;
-       align-items: center;
+       width:100px;
+       background-color: rgb(126, 22, 22);
+       color: white;
    }
+   .contactus-cancel-btn{
+    width:100px;
+    margin-left: 60px;
+    background-color: rgb(126, 22, 22);
+    color: white;
+   }
+
    .contactus-msg-box{
-       padding: 14px;
-       /* background-color: rgb(240, 211, 158); */
+       margin-left: 180px;
+       width: 350px;
+       padding: 40px;
+       background-color: white;
        border-radius: 5px;
-       width: 500px;
-   }
-   .contact_us{
-       font-family: 'Times New Roman', Times, serif
    }
     .input-box{  
        border:none;
@@ -30,6 +32,9 @@
    }
    .contact-details{
        padding:10px;
-       /* color:white; */
-       color: black;
+       color:white;
+   }
+   .contact-link{
+       margin-left: 50px;
+       color:white;
    }

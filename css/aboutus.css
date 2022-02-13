@@ -75,3 +75,7 @@
 #copyright{
     text-align: center;
 }
+.abouthover:hover{
+ transform: scale(1.1);
+ box-shadow: 0px 0px 10px lightgreen;
+}
