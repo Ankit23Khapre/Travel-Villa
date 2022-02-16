@@ -1,11 +1,13 @@
 .card_hover:hover
 {
-   box-shadow: 5px 5px 20px black;
+   box-shadow:7px 7px 12px white;
    transition: 0.6s;
-   border: 1px solid black;
+   border: 1px solid white;
+   transform: scale(0.7);
 }
 .header{
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 .card{
     border: 1px;
@@ -19,3 +21,4 @@
     height: 410px;
     width: 410px;
 }
+
