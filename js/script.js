@@ -1,8 +1,4 @@
 
-
-
-
-
 var swiper = new Swiper(".books-slider", {
     loop:true,
     centeredSlides: true,
